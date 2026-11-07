@@ -1,0 +1,9 @@
+# Publications to hide from the website (Google Scholar sometimes attaches
+# papers by other authors named "A Malik"). One title fragment per line,
+# case-insensitive. Re-run scripts/update_publications.py after editing.
+Rocket engine with dual contour nozzle
+Thrust Augmentation for Liquid Rocket Engines
+Mucormycosis complicating interstitial nephritis
+Severe Hypercalcemia in Tuberculosis
+ADVERSE DRUG REACTION REPORTING SYSTEM
+Rate of Participation of Female in Labor Force
