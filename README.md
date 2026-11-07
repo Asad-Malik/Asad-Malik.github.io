@@ -7,7 +7,6 @@ Static personal website (plain HTML/CSS/JS, no build step) for GitHub Pages.
 index.html                  page content (bio, research, experience, education, contact)
 assets/css/style.css        design (ivory / navy / gold, light + dark mode)
 assets/js/main.js           animations, citation chart, publication search & filters
-assets/cv/Asad_Malik_CV.pdf downloadable CV
 data/publications.js        publication list + metrics (generated from Google Scholar)
 scripts/update_publications.py  refreshes data/publications.js
 photo.jpg                   (add this) profile photo; falls back to an "AWM" monogram
