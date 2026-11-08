@@ -227,7 +227,6 @@ svg { width: 18px; height: 18px; fill: none; stroke: currentColor; stroke-width:
 .edu h3 { font-size: 21px; margin: 6px 0 4px; }
 .edu .org { color: var(--navy-2); font-weight: 500; margin-bottom: 8px; }
 .edu p { font-size: 15px; color: var(--muted); }
-.edu .thesis { margin-top: 8px; font-style: italic; border-left: 2px solid var(--gold); padding-left: 12px; }
 
 /* Publications */
 .selected { display: grid; grid-template-columns: repeat(3, 1fr); gap: 20px; }
